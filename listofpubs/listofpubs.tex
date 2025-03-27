@@ -1,0 +1,117 @@
+\documentclass[a4paper]{amsart}
+
+\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+\usepackage{microtype,verbatim}
+
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage[foot]{amsaddr}
+\usepackage{mathtools}
+
+\usepackage{unicode-math}
+\AtBeginDocument{% to do this after unicode-math has done its work
+  \renewcommand{\setminus}{\mathbin{\backslash}}%
+}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usetikzlibrary{cd}
+\usepackage{array}
+\usepackage{physics}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage[backend=biber,style=numeric,autocite=inline, maxnames=8, backref]{biblatex}
+
+\DeclareSortingTemplate{eprint}{
+    \sort[direction=descending]{\field{sortkey}}
+}
+\addbibresource{listofpubs.bib}
+\renewbibmacro*{finentry}{%
+  \setunit{\finentrypunct\par}%
+  \usebibmacro{abstract}%
+  \finentry}
+
+\DeclareSourcemap{
+    \maps[datatype=bibtex]{
+        \map{
+            \step[fieldsource=eprint]
+            \step[fieldset=sortkey,origfieldval]
+        }
+    }
+}
+
+
+\usepackage{hyperref}
+\usepackage[capitalise,noabbrev]{cleveref} % load after hyperref
+
+
+\newcommand{\df}{\textit}
+
+\newcommand{\union}{\cup}
+\newcommand{\inter}{\cap}
+
+\newcommand{\ms}{\mathscr}
+\newcommand{\mc}{\mathcal}
+\newcommand{\mb}{\mathbf}
+\newcommand{\mf}{\mathfrak}
+
+
+\newcommand{\B}{\mathbb{B}}
+\renewcommand{\H}{\mathbb{H}}
+\renewcommand{\P}{\mathbb{P}}
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\M}{\mathbb{M}}
+\renewcommand{\SS}{\mathbb{S}}
+\newcommand{\CB}{\mathcal{CB}}
+\newcommand{\F}{\mathcal{F}}
+
+\DeclareMathOperator{\dom}{dom}
+\DeclareMathOperator{\PSL}{\mathsf{PSL}}
+\DeclareMathOperator{\SL}{\mathsf{SL}}
+\DeclareMathOperator{\GL}{\mathsf{GL}}
+\DeclareMathOperator{\PGL}{\mathsf{PGL}}
+\DeclareMathOperator{\PO}{\mathsf{PO}}
+\DeclareMathOperator{\Aut}{Aut}
+\DeclareMathOperator{\Isom}{Isom}
+\DeclareMathOperator{\Inn}{Inn}
+\DeclareMathOperator{\Stab}{Stab}
+\DeclareMathOperator{\Teich}{Teich}
+\DeclareMathOperator{\QH}{QH}
+\DeclareMathOperator{\Fix}{Fix}
+\DeclareMathOperator{\Hom}{Hom}
+\DeclareMathOperator{\Mod}{Mod}
+\DeclareMathOperator{\ceil}{ceil}
+\DeclareMathOperator{\floor}{floor}
+\DeclareMathOperator{\hconv}{h-conv}
+\DeclareMathOperator{\Word}{cs}
+\DeclareMathOperator{\sgn}{sgn}
+
+
+\title{List of publications}
+\author{Alex Elzenaar}
+\address{School of Mathematics, Monash University}
+\email{alexander.elzenaar@monash.edu}
+
+\date{\today}
+
+
+\begin{document}
+
+
+\maketitle
+
+\newrefcontext[sorting=eprint]
+\nocite{*}
+\sloppy
+\printbibliography[heading=none]
+
+
+\end{document}

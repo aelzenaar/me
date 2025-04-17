@@ -145,10 +145,15 @@
       \field{abstract}{We give some new explicit examples of putatively optimal projective spherical designs. i.e., ones for which there is numerical evidence that they are of minimal size. These form continuous families, and so have little apparent symmetry in general, which requires the introduction of new techniques for their construction. New examples of interest include an $11$-point spherical $(3, 3)$-design for $\R^3$ , and a $12$-point spherical $(2, 2)$-design for $\R^4$ given by four Mercedes-Benz frames that lie on equi-isoclinic planes. We also give results of an extensive numerical study to determine the nature of the real algebraic variety of optimal projective real spherical designs, and in particular when it is a single point (a unique design) or corresponds to an infinite family of designs.}
       \field{eprintclass}{math.CO}
       \field{eprinttype}{arXiv}
+      \field{issue}{6}
       \field{journaltitle}{Journal of Combinatorial Designs}
       \field{title}{Putatively optimal projective spherical designs with little apparent symmetry}
+      \field{volume}{33}
       \field{year}{2025}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1002/jcd.21979
+      \endverb
       \verb{eprint}
       \verb 2405.19353
       \endverb
@@ -189,6 +194,7 @@
       \field{abstract}{In this article we provide simple and provable bounds on the size and shape of the locus of discrete subgroups of $\PSL(2,\C)\simeq\Isom+(^̋3)$ which split as a free product of cyclic groups $\Z_p*\Z_q$, $3\leq p,q\leq\infty$. These bounds are sharp and meet the highly fractal boundary of the deformation space in four cusp groups. Such bounds have great utility in computer assisted searches for extremal Kleinian groups so as to identify universal constraints (volume, length spectra, etc.) on the geometry and topology of hyperbolic $3$-orbifolds. As an application, we prove a strengthened version of a conjecture by Morier-Genoud, Ovsienko, and Veselov, motivated by the theory of quantum rational numbers, on the faithfulness of the specialised Burau representation.}
       \field{eprintclass}{math.CV}
       \field{eprinttype}{arXiv}
+      \field{note}{Submitted}
       \field{title}{Bounding deformation spaces of 2-generator Kleinian groups}
       \field{year}{2024}
       \true{nocite}
@@ -554,6 +560,7 @@
       \field{abstract}{In this article we provide simple and provable bounds on the size and shape of the locus of discrete subgroups of $\PSL(2,\C)\simeq\Isom+(^̋3)$ which split as a free product of cyclic groups $\Z_p*\Z_q$, $3\leq p,q\leq\infty$. These bounds are sharp and meet the highly fractal boundary of the deformation space in four cusp groups. Such bounds have great utility in computer assisted searches for extremal Kleinian groups so as to identify universal constraints (volume, length spectra, etc.) on the geometry and topology of hyperbolic $3$-orbifolds. As an application, we prove a strengthened version of a conjecture by Morier-Genoud, Ovsienko, and Veselov, motivated by the theory of quantum rational numbers, on the faithfulness of the specialised Burau representation.}
       \field{eprintclass}{math.CV}
       \field{eprinttype}{arXiv}
+      \field{note}{Submitted}
       \field{title}{Bounding deformation spaces of 2-generator Kleinian groups}
       \field{year}{2024}
       \true{nocite}
@@ -587,10 +594,15 @@
       \field{abstract}{We give some new explicit examples of putatively optimal projective spherical designs. i.e., ones for which there is numerical evidence that they are of minimal size. These form continuous families, and so have little apparent symmetry in general, which requires the introduction of new techniques for their construction. New examples of interest include an $11$-point spherical $(3, 3)$-design for $\R^3$ , and a $12$-point spherical $(2, 2)$-design for $\R^4$ given by four Mercedes-Benz frames that lie on equi-isoclinic planes. We also give results of an extensive numerical study to determine the nature of the real algebraic variety of optimal projective real spherical designs, and in particular when it is a single point (a unique design) or corresponds to an infinite family of designs.}
       \field{eprintclass}{math.CO}
       \field{eprinttype}{arXiv}
+      \field{issue}{6}
       \field{journaltitle}{Journal of Combinatorial Designs}
       \field{title}{Putatively optimal projective spherical designs with little apparent symmetry}
+      \field{volume}{33}
       \field{year}{2025}
       \true{nocite}
+      \verb{doi}
+      \verb 10.1002/jcd.21979
+      \endverb
       \verb{eprint}
       \verb 2405.19353
       \endverb

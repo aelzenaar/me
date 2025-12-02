@@ -1,19 +1,19 @@
 [0] Config.pm:328> INFO - This is Biber 2.21
 [0] Config.pm:331> INFO - Logfile is 'listofpubs.blg'
-[40] biber:342> INFO - === Sun Nov  2, 2025, 22:57:45
-[50] Biber.pm:421> INFO - Reading 'listofpubs.bcf'
-[94] Biber.pm:999> INFO - Using all citekeys in bib section 0
-[108] Biber.pm:4487> INFO - Processing section 0
-[114] Biber.pm:4678> INFO - Looking for bibtex file 'listofpubs.bib' for section 0
-[115] bibtex.pm:1713> INFO - LaTeX decoding ...
-[123] bibtex.pm:1519> INFO - Found BibTeX data source 'listofpubs.bib'
-[194] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[194] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[194] Biber.pm:4307> INFO - Sorting list 'eprint/global//global/global/global' of type 'entry' with template 'eprint' and locale 'en-US'
-[194] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[205] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[205] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[205] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[205] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[209] bbl.pm:676> INFO - Writing 'listofpubs.bbl' with encoding 'UTF-8'
-[215] bbl.pm:779> INFO - Output to listofpubs.bbl
+[38] biber:342> INFO - === Tue Dec  2, 2025, 14:02:16
+[47] Biber.pm:421> INFO - Reading 'listofpubs.bcf'
+[89] Biber.pm:999> INFO - Using all citekeys in bib section 0
+[102] Biber.pm:4487> INFO - Processing section 0
+[108] Biber.pm:4678> INFO - Looking for bibtex file 'listofpubs.bib' for section 0
+[108] bibtex.pm:1713> INFO - LaTeX decoding ...
+[116] bibtex.pm:1519> INFO - Found BibTeX data source 'listofpubs.bib'
+[187] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[187] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[187] Biber.pm:4307> INFO - Sorting list 'eprint/global//global/global/global' of type 'entry' with template 'eprint' and locale 'en-US'
+[187] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[200] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[200] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[200] Biber.pm:4307> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[200] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[204] bbl.pm:676> INFO - Writing 'listofpubs.bbl' with encoding 'UTF-8'
+[209] bbl.pm:779> INFO - Output to listofpubs.bbl

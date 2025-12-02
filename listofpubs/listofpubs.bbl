@@ -402,7 +402,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The conformal boundary of a hyperbolic $3$-manifold $M$ is a union of Riemann surfaces. If any of these Riemann surfaces has a nontrivial Teichmüller space, then the hyperbolic metric of $M$ can be deformed quasi-isometrically. These deformations correspond to a small pertubations in the matrices of the holonomy group of $M$, which together give an island of discrete representations around the identity map in $ X=\mathrm{Hom}(\pi_1(M), \mathsf{PSL}(2,\mathbb{C})) $. Determining the extent of this island is a hard problem. If $M$ is geometrically finite and its convex core boundary is pleated only along simple closed curves, then we cut up its conformal boundary in a way governed by the pleating combinatorics to produce a fundamental domain for $ \pi_1(M) $ that is combinatorially stable under small deformations, even those which change the pleated structure. We give a computable region in $X$, cut out by polynomial inequalities over $\mathbb{R}$, within which this fundamental domain is valid: all the groups in the region have peripheral structures that look `coarsely similar', in that they come from real-algebraically deforming a fixed conformal polygon and its side-pairings. The union of all these regions for different pleating laminations gives a countable cover, with sets of controlled topology, of the entire quasi-isometric deformation space of $ \pi_1(M) $ -- which is known to be topologically wild.}
+      \field{abstract}{The conformal boundary of a hyperbolic $3$-manifold $M$ is a union of Riemann surfaces. If any of these Riemann surfaces has a nontrivial Teichmüller space, then the hyperbolic metric of $M$ can be deformed quasi-isometrically. These deformations correspond to a small pertubations in the matrices of the holonomy group of $M$, which together give an island of discrete representations around the identity map in $ X=\mathrm{Hom}(\pi_1(M), \mathsf{PSL}(2,\mathbb{C})) $. Determining the extent of this island is a hard problem. If $M$ is geometrically finite and its convex core boundary is pleated only along simple closed curves, then we cut up its conformal boundary in a way governed by the pleating combinatorics to produce a fundamental domain for $ \pi_1(M) $ that is combinatorially stable under small deformations, even those which change the pleated structure. We give a computable region in $X$, cut out by polynomial inequalities over $\mathbb{R}$, within which this fundamental domain is valid: all the groups in the region have peripheral structures that look `coarsely similar', in that they come from real-algebraically deforming a fixed conformal polygon and its side-pairings. The union of all these regions for different pleating laminations gives a countable cover, with sets of controlled topology, of the entire quasi-isometric deformation space of $ \pi_1(M) $---which is known to be topologically wild.}
       \field{eprintclass}{math.GT}
       \field{eprinttype}{arXiv}
       \field{note}{Submitted}
@@ -411,6 +411,38 @@
       \true{nocite}
       \verb{eprint}
       \verb 2508.00297
+      \endverb
+    \endentry
+    \entry{elzenaar25c}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+           family={Elzenaar},
+           familyi={E\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{fullhashraw}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{bibnamehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authorbibnamehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authornamehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authorfullhash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authorfullhashraw}{85bb2739dbaba8a36c88ae500fe1102b}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deformations of hyperbolic manifolds through metrics with cone singularities along closed loops were first studied by Thurston as continuous realisations of Dehn fillings. Instead of gluing singular solid tori into rank $2$ cusps, we glue singular $2$-handles into rank $1$ cusps. Our method is to find substructures within which the hyperbolic metric can be `fractured' in a controlled way by direct manipulation of a fundamental polyhedron, changing the cone angle around an ideal arc to interpolate between cusped hyperbolic manifolds and hyperbolic manifolds with conformal surfaces on the visual boundary. As an application, we use cone deformations of a family of arithmetic manifolds derived from the Borromean rings to show that the upper unknotting tunnels of highly twisted $2$-bridge links can be drilled out by cone deformations. We also show that our structures arise naturally in fully augmented links, providing a large family of examples.}
+      \field{eprintclass}{math.GT}
+      \field{eprinttype}{arXiv}
+      \field{note}{Submitted}
+      \field{title}{Expansion joints in hyperbolic manifolds}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2512.00879
       \endverb
     \endentry
   \enddatalist
@@ -798,7 +830,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The conformal boundary of a hyperbolic $3$-manifold $M$ is a union of Riemann surfaces. If any of these Riemann surfaces has a nontrivial Teichmüller space, then the hyperbolic metric of $M$ can be deformed quasi-isometrically. These deformations correspond to a small pertubations in the matrices of the holonomy group of $M$, which together give an island of discrete representations around the identity map in $ X=\mathrm{Hom}(\pi_1(M), \mathsf{PSL}(2,\mathbb{C})) $. Determining the extent of this island is a hard problem. If $M$ is geometrically finite and its convex core boundary is pleated only along simple closed curves, then we cut up its conformal boundary in a way governed by the pleating combinatorics to produce a fundamental domain for $ \pi_1(M) $ that is combinatorially stable under small deformations, even those which change the pleated structure. We give a computable region in $X$, cut out by polynomial inequalities over $\mathbb{R}$, within which this fundamental domain is valid: all the groups in the region have peripheral structures that look `coarsely similar', in that they come from real-algebraically deforming a fixed conformal polygon and its side-pairings. The union of all these regions for different pleating laminations gives a countable cover, with sets of controlled topology, of the entire quasi-isometric deformation space of $ \pi_1(M) $ -- which is known to be topologically wild.}
+      \field{abstract}{The conformal boundary of a hyperbolic $3$-manifold $M$ is a union of Riemann surfaces. If any of these Riemann surfaces has a nontrivial Teichmüller space, then the hyperbolic metric of $M$ can be deformed quasi-isometrically. These deformations correspond to a small pertubations in the matrices of the holonomy group of $M$, which together give an island of discrete representations around the identity map in $ X=\mathrm{Hom}(\pi_1(M), \mathsf{PSL}(2,\mathbb{C})) $. Determining the extent of this island is a hard problem. If $M$ is geometrically finite and its convex core boundary is pleated only along simple closed curves, then we cut up its conformal boundary in a way governed by the pleating combinatorics to produce a fundamental domain for $ \pi_1(M) $ that is combinatorially stable under small deformations, even those which change the pleated structure. We give a computable region in $X$, cut out by polynomial inequalities over $\mathbb{R}$, within which this fundamental domain is valid: all the groups in the region have peripheral structures that look `coarsely similar', in that they come from real-algebraically deforming a fixed conformal polygon and its side-pairings. The union of all these regions for different pleating laminations gives a countable cover, with sets of controlled topology, of the entire quasi-isometric deformation space of $ \pi_1(M) $---which is known to be topologically wild.}
       \field{eprintclass}{math.GT}
       \field{eprinttype}{arXiv}
       \field{note}{Submitted}
@@ -807,6 +839,38 @@
       \true{nocite}
       \verb{eprint}
       \verb 2508.00297
+      \endverb
+    \endentry
+    \entry{elzenaar25c}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+           family={Elzenaar},
+           familyi={E\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{fullhashraw}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{bibnamehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authorbibnamehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authornamehash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authorfullhash}{85bb2739dbaba8a36c88ae500fe1102b}
+      \strng{authorfullhashraw}{85bb2739dbaba8a36c88ae500fe1102b}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deformations of hyperbolic manifolds through metrics with cone singularities along closed loops were first studied by Thurston as continuous realisations of Dehn fillings. Instead of gluing singular solid tori into rank $2$ cusps, we glue singular $2$-handles into rank $1$ cusps. Our method is to find substructures within which the hyperbolic metric can be `fractured' in a controlled way by direct manipulation of a fundamental polyhedron, changing the cone angle around an ideal arc to interpolate between cusped hyperbolic manifolds and hyperbolic manifolds with conformal surfaces on the visual boundary. As an application, we use cone deformations of a family of arithmetic manifolds derived from the Borromean rings to show that the upper unknotting tunnels of highly twisted $2$-bridge links can be drilled out by cone deformations. We also show that our structures arise naturally in fully augmented links, providing a large family of examples.}
+      \field{eprintclass}{math.GT}
+      \field{eprinttype}{arXiv}
+      \field{note}{Submitted}
+      \field{title}{Expansion joints in hyperbolic manifolds}
+      \field{year}{2025}
+      \true{nocite}
+      \verb{eprint}
+      \verb 2512.00879
       \endverb
     \endentry
   \enddatalist

@@ -103,11 +103,14 @@
       \field{eprintclass}{math.GT}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{Groups, Geometry, and Dynamics}
-      \field{note}{Published online first}
+      \field{number}{1}
       \field{origyear}{2022}
       \field{title}{The combinatorics of Farey words and their traces}
-      \field{year}{2024}
+      \field{volume}{20}
+      \field{year}{2026}
       \true{nocite}
+      \field{pages}{215\bibrangedash 256}
+      \range{pages}{42}
       \verb{doi}
       \verb 10.4171/GGD/832
       \endverb
@@ -531,11 +534,14 @@
       \field{eprintclass}{math.GT}
       \field{eprinttype}{arXiv}
       \field{journaltitle}{Groups, Geometry, and Dynamics}
-      \field{note}{Published online first}
+      \field{number}{1}
       \field{origyear}{2022}
       \field{title}{The combinatorics of Farey words and their traces}
-      \field{year}{2024}
+      \field{volume}{20}
+      \field{year}{2026}
       \true{nocite}
+      \field{pages}{215\bibrangedash 256}
+      \range{pages}{42}
       \verb{doi}
       \verb 10.4171/GGD/832
       \endverb

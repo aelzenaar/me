@@ -2435,6 +2435,15 @@
       <bcf:sortitem order="1">sortkey</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
+  <bcf:sortingtemplate name="noney">
+    <bcf:sort order="1" sort_direction="descending">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2">
+      <bcf:sortitem order="1">intciteorder</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="1"
                 name="eprint/global//global/global/global"
@@ -2447,9 +2456,9 @@
                 namehashtemplatename="global">
   </bcf:datalist>
   <bcf:datalist section="2"
-                name="eprint/global//global/global/global"
+                name="noney/global//global/global/global"
                 type="entry"
-                sortingtemplatename="eprint"
+                sortingtemplatename="noney"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

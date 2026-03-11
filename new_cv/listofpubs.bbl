@@ -445,7 +445,57 @@
 \endrefsection
 
 \refsection{2}
-  \datalist[entry]{eprint/global//global/global/global}
+  \datalist[entry]{noney/global//global/global/global}
+    \entry{ems22b}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+           family={Elzenaar},
+           familyi={E\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Gaven\bibnamedelima J.},
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
+           family={Schillewaert},
+           familyi={S\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \strng{fullhashraw}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \strng{bibnamehash}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \strng{authorbibnamehash}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \strng{authornamehash}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \strng{authorfullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \strng{authorfullhashraw}{3af94603bfa8b3cc46056aa1bb6e593c}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We introduce a family of $3$-variable `{Farey} polynomials' that are closely connected with the geometry and topology of $3$-manifolds and orbifolds as they can be used to produce concrete realisations of the boundaries and local coordinates for one-dimensional (over $\mathbb{C}$) deformation spaces of Kleinian groups. As such, this family of polynomials has a number of quite remarkable properties. We study these polynomials from an abstract combinatorial viewpoint, including a recursive definition extending that which is known in the literature for the special case of manifolds, even beyond what the geometry predicts. We also present some intriguing examples and conjectures which we would like to bring to the attention of researchers interested in algebraic combinatorics and hypergeometric functions. The results in this paper additionally provide a practical approach to various classification problems for rank $2$ subgroups of $\mathsf{PSL}(2,\mathbb{C})$ since they, together with other recent work of the authors, make it possible to provide certificates that certain groups are discrete and free, and effective ways to identify relators.}
+      \field{eprintclass}{math.GT}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Groups, Geometry, and Dynamics}
+      \field{number}{1}
+      \field{origyear}{2022}
+      \field{title}{The combinatorics of {Farey} words and their traces}
+      \field{volume}{20}
+      \field{year}{2026}
+      \true{nocite}
+      \field{pages}{215\bibrangedash 256}
+      \range{pages}{42}
+      \verb{doi}
+      \verb 10.4171/GGD/832
+      \endverb
+      \verb{eprint}
+      \verb 2204.08076
+      \endverb
+    \endentry
     \entry{ew24}{article}{}{}
       \name{author}{2}{}{%
         {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
@@ -541,7 +591,7 @@
       \strng{editornamehash}{0b4784ca2a264bf2f0b0763218831dfc}
       \strng{editorfullhash}{0b4784ca2a264bf2f0b0763218831dfc}
       \strng{editorfullhashraw}{0b4784ca2a264bf2f0b0763218831dfc}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -558,56 +608,6 @@
       \range{pages}{44}
       \verb{eprint}
       \verb 2204.11422
-      \endverb
-    \endentry
-    \entry{ems22b}{article}{}{}
-      \name{author}{3}{}{%
-        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
-           family={Elzenaar},
-           familyi={E\bibinitperiod},
-           given={Alex},
-           giveni={A\bibinitperiod}}}%
-        {{hash=2a55bec10ef520ec702b385885052f0f}{%
-           family={Martin},
-           familyi={M\bibinitperiod},
-           given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
-           family={Schillewaert},
-           familyi={S\bibinitperiod},
-           given={Jeroen},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \strng{fullhashraw}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \strng{bibnamehash}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \strng{authorbibnamehash}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \strng{authornamehash}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \strng{authorfullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \strng{authorfullhashraw}{3af94603bfa8b3cc46056aa1bb6e593c}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We introduce a family of $3$-variable `{Farey} polynomials' that are closely connected with the geometry and topology of $3$-manifolds and orbifolds as they can be used to produce concrete realisations of the boundaries and local coordinates for one-dimensional (over $\mathbb{C}$) deformation spaces of Kleinian groups. As such, this family of polynomials has a number of quite remarkable properties. We study these polynomials from an abstract combinatorial viewpoint, including a recursive definition extending that which is known in the literature for the special case of manifolds, even beyond what the geometry predicts. We also present some intriguing examples and conjectures which we would like to bring to the attention of researchers interested in algebraic combinatorics and hypergeometric functions. The results in this paper additionally provide a practical approach to various classification problems for rank $2$ subgroups of $\mathsf{PSL}(2,\mathbb{C})$ since they, together with other recent work of the authors, make it possible to provide certificates that certain groups are discrete and free, and effective ways to identify relators.}
-      \field{eprintclass}{math.GT}
-      \field{eprinttype}{arXiv}
-      \field{journaltitle}{Groups, Geometry, and Dynamics}
-      \field{number}{1}
-      \field{origyear}{2022}
-      \field{title}{The combinatorics of {Farey} words and their traces}
-      \field{volume}{20}
-      \field{year}{2026}
-      \true{nocite}
-      \field{pages}{215\bibrangedash 256}
-      \range{pages}{42}
-      \verb{doi}
-      \verb 10.4171/GGD/832
-      \endverb
-      \verb{eprint}
-      \verb 2204.08076
       \endverb
     \endentry
     \entry{ems21}{article}{}{}

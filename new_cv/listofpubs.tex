@@ -21,6 +21,15 @@
     \sort[direction=descending]{\field{sortkey}}
 }
 
+\DeclareSortingTemplate{noney}{
+  \sort[direction=descending]{
+    \field{sortyear}
+    \field{year}
+  }
+  \sort{\intciteorder}
+}
+
+
 \addbibresource{preprints.bib}
 \addbibresource{published.bib}
 \renewbibmacro*{finentry}{%
@@ -64,7 +73,7 @@
 
 \section*{Published}
 \begin{refsection}[published]
-\newrefcontext[sorting=eprint]
+\newrefcontext[sorting=noney]
 \nocite{*}
 \sloppy
 \printbibliography[heading=none]

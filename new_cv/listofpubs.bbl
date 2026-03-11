@@ -21,12 +21,11 @@
   \datalist[entry]{eprint/global//global/global/global}
     \entry{elzenaar25c}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -53,12 +52,11 @@
     \endentry
     \entry{elzenaar25b}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -85,12 +83,11 @@
     \endentry
     \entry{elzenaar25a}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -117,12 +114,11 @@
     \endentry
     \entry{elzenaar24c}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -149,24 +145,21 @@
     \endentry
     \entry{ems24t}{misc}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
       \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
@@ -193,30 +186,26 @@
     \endentry
     \entry{ems24}{misc}{}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8ee3334bf4d739bc724a301c8655b5f2}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=8ee3334bf4d739bc724a301c8655b5f2}{%
            family={Gong},
            familyi={G\bibinitperiod},
            given={Jianhua},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{9cf2efc590a24543cee18908e6f8269c}
       \strng{fullhash}{9cf2efc590a24543cee18908e6f8269c}
@@ -244,30 +233,26 @@
   \datalist[entry]{nty/global//global/global/global}
     \entry{ems24}{misc}{}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8ee3334bf4d739bc724a301c8655b5f2}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=8ee3334bf4d739bc724a301c8655b5f2}{%
            family={Gong},
            familyi={G\bibinitperiod},
            given={Jianhua},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={J\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{9cf2efc590a24543cee18908e6f8269c}
       \strng{fullhash}{9cf2efc590a24543cee18908e6f8269c}
@@ -293,24 +278,21 @@
     \endentry
     \entry{ems24t}{misc}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
       \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
@@ -337,12 +319,11 @@
     \endentry
     \entry{elzenaar24c}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -369,12 +350,11 @@
     \endentry
     \entry{elzenaar25a}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -401,12 +381,11 @@
     \endentry
     \entry{elzenaar25b}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -433,12 +412,11 @@
     \endentry
     \entry{elzenaar25c}{misc}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
+           giveni={A\bibinitperiod}}}%
       }
       \strng{namehash}{85bb2739dbaba8a36c88ae500fe1102b}
       \strng{fullhash}{85bb2739dbaba8a36c88ae500fe1102b}
@@ -470,18 +448,16 @@
   \datalist[entry]{eprint/global//global/global/global}
     \entry{ew24}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2e4a29d199dcccf25d9ee17627447bb9}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e4a29d199dcccf25d9ee17627447bb9}{%
            family={Waldron},
            familyi={W\bibinitperiod},
            given={Shayne},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \strng{namehash}{c515d1689939090f4bfe5e2034821057}
       \strng{fullhash}{c515d1689939090f4bfe5e2034821057}
@@ -515,24 +491,21 @@
     \endentry
     \entry{ems22M}{incollection}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
         {{hash=6828641a12d67de8893e7f6910168220}{%
@@ -589,24 +562,21 @@
     \endentry
     \entry{ems22b}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
       \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
@@ -642,24 +612,21 @@
     \endentry
     \entry{ems21}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
       \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
@@ -696,24 +663,21 @@
   \datalist[entry]{nty/global//global/global/global}
     \entry{ems21}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
       \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
@@ -748,24 +712,21 @@
     \endentry
     \entry{ems22b}{article}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \strng{namehash}{3af94603bfa8b3cc46056aa1bb6e593c}
       \strng{fullhash}{3af94603bfa8b3cc46056aa1bb6e593c}
@@ -801,24 +762,21 @@
     \endentry
     \entry{ems22M}{incollection}{}{}
       \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2a55bec10ef520ec702b385885052f0f}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2a55bec10ef520ec702b385885052f0f}{%
            family={Martin},
            familyi={M\bibinitperiod},
            given={Gaven\bibnamedelima J.},
-           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=442640ba19588993b7d9a0d3c056aea0}{%
+           giveni={G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=442640ba19588993b7d9a0d3c056aea0}{%
            family={Schillewaert},
            familyi={S\bibinitperiod},
            given={Jeroen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+           giveni={J\bibinitperiod}}}%
       }
       \name{editor}{3}{}{%
         {{hash=6828641a12d67de8893e7f6910168220}{%
@@ -875,18 +833,16 @@
     \endentry
     \entry{ew24}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=85bb2739dbaba8a36c88ae500fe1102b}{%
+        {{hash=85bb2739dbaba8a36c88ae500fe1102b}{%
            family={Elzenaar},
            familyi={E\bibinitperiod},
            given={Alex},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=2e4a29d199dcccf25d9ee17627447bb9}{%
+           giveni={A\bibinitperiod}}}%
+        {{hash=2e4a29d199dcccf25d9ee17627447bb9}{%
            family={Waldron},
            familyi={W\bibinitperiod},
            given={Shayne},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
+           giveni={S\bibinitperiod}}}%
       }
       \strng{namehash}{c515d1689939090f4bfe5e2034821057}
       \strng{fullhash}{c515d1689939090f4bfe5e2034821057}

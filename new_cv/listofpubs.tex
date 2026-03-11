@@ -1,0 +1,70 @@
+\documentclass[a4paper]{amsart}
+
+\usepackage[T1]{fontenc}
+\usepackage{fontspec}
+
+\usepackage{unicode-math}
+\defaultfontfeatures{Scale=MatchLowercase}
+\setmainfont{TeX Gyre Pagella}
+\setmathfont{Asana Math}
+
+
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{mathtools}
+
+
+\usepackage[backend=biber,style=authortitle, maxnames=8]{biblatex}
+
+\DeclareSortingTemplate{eprint}{
+    \sort[direction=descending]{\field{sortkey}}
+}
+
+\addbibresource{preprints.bib}
+\addbibresource{published.bib}
+\renewbibmacro*{finentry}{%
+  \setunit{\finentrypunct\par}%
+  \usebibmacro{abstract}%
+  \finentry}
+
+\DeclareSourcemap{
+    \maps[datatype=bibtex]{
+        \map{
+            \step[fieldsource=eprint]
+            \step[fieldset=sortkey,origfieldval]
+        }
+    }
+}
+
+
+\usepackage{hyperref}
+
+
+\title{List of publications}
+\author{Alex Elzenaar}
+\address{School of Mathematics, Monash University}
+\email{alexander.elzenaar@monash.edu}
+
+\date{\today}
+
+
+\begin{document}
+
+
+\maketitle
+
+\begin{refsection}[preprints]
+\newrefcontext[sorting=eprint]
+\nocite{*}
+\sloppy
+\printbibliography[heading=none]
+\end{refsection}
+
+\begin{refsection}[published]
+\newrefcontext[sorting=eprint]
+\nocite{*}
+\sloppy
+\printbibliography[heading=none]
+\end{refsection}
+
+\end{document}

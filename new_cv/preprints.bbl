@@ -1,0 +1,44 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\noopsort}[1]{}
+\providecommand{\mr}[1]{\href{http://www.ams.org/mathscinet-getitem?mr=#1}{MR~#1}}
+\providecommand{\zbl}[1]{\href{http://www.zentralblatt-math.org/zmath/en/search/?q=an:#1}{Zbl~#1}}
+\providecommand{\jfm}[1]{\href{http://www.emis.de/cgi-bin/JFM-item?#1}{JFM~#1}}
+\providecommand{\arxiv}[1]{\href{http://www.arxiv.org/abs/#1}{arXiv~#1}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{elzenaar25c}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, Expansion joints in hyperbolic
+  manifolds, 2025. \arxiv{2512.00879}.
+
+\bibitem{elzenaar25a}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, From disc patterns in the plane to
+  character varieties of knot groups, 2025. \arxiv{2503.13829}.
+
+\bibitem{elzenaar25b}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, Peripheral subgroups of {{Kleinian}}
+  groups, 2025. \arxiv{2508.00297}.
+
+\bibitem{elzenaar24c}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, Changing topological type of compression
+  bodies through cone manifolds, 2024. \arxiv{2411.17940}.
+
+\bibitem{ems24}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, \bgroup\scshape{}J.~Gong\egroup{},
+  \bgroup\scshape{}G.~J. Martin\egroup{}, and
+  \bgroup\scshape{}J.~Schillewaert\egroup{}, Bounding deformation spaces of
+  {{Kleinian}} groups with two generators, 2024. \arxiv{2405.15970}.
+
+\bibitem{ems24t}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, \bgroup\scshape{}G.~J. Martin\egroup{},
+  and \bgroup\scshape{}J.~Schillewaert\egroup{}, On thin {Heckoid} and
+  generalised triangle groups in {$\mathsf{PSL}(2,\mathbb{C})$}, 2024.
+  \arxiv{2409.04438}.
+
+\end{thebibliography}

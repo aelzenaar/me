@@ -1,0 +1,46 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\noopsort}[1]{}
+\providecommand{\mr}[1]{\href{http://www.ams.org/mathscinet-getitem?mr=#1}{MR~#1}}
+\providecommand{\zbl}[1]{\href{http://www.zentralblatt-math.org/zmath/en/search/?q=an:#1}{Zbl~#1}}
+\providecommand{\jfm}[1]{\href{http://www.emis.de/cgi-bin/JFM-item?#1}{JFM~#1}}
+\providecommand{\arxiv}[1]{\href{http://www.arxiv.org/abs/#1}{arXiv~#1}}
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{ems22b}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, \bgroup\scshape{}G.~J. Martin\egroup{},
+  and \bgroup\scshape{}J.~Schillewaert\egroup{}, The combinatorics of {Farey}
+  words and their traces,  \emph{Groups, Geometry, and Dynamics} \textbf{20}
+  no.~1 (2026), 215--256. \mr{5032293}.  \zbl{8166380}.  \arxiv{2204.08076}.
+  \doi{10.4171/GGD/832}.
+
+\bibitem{ew24}
+\bgroup\scshape{}A.~Elzenaar\egroup{} and \bgroup\scshape{}S.~Waldron\egroup{},
+  Putatively optimal projective spherical designs with little apparent
+  symmetry,  \emph{Journal of Combinatorial Designs} \textbf{33} no.~6 (2025),
+  222--234. \mr{4895104}.  \zbl{1562.05025}.  \arxiv{2405.19353}.
+  \doi{10.1002/jcd.21979}.
+
+\bibitem{ems22M}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, \bgroup\scshape{}G.~J. Martin\egroup{},
+  and \bgroup\scshape{}J.~Schillewaert\egroup{}, Concrete one complex
+  dimensional moduli spaces of hyperbolic manifolds and orbifolds,  in
+  \emph{2021-22 MATRIX annals} (\bgroup\scshape{}D.~R. Wood\egroup{},
+  \bgroup\scshape{}J.~de~Gier\egroup{}, and \bgroup\scshape{}C.~E.
+  Praeger\egroup{}, eds.), Springer, 2024, pp.~31--74. \mr{4807267}.
+  \zbl{1520.30060}.  \arxiv{2204.11422}.
+
+\bibitem{ems21}
+\bgroup\scshape{}A.~Elzenaar\egroup{}, \bgroup\scshape{}G.~J. Martin\egroup{},
+  and \bgroup\scshape{}J.~Schillewaert\egroup{}, Approximations of the {Riley}
+  slice,  \emph{Expositiones Mathematicae} \textbf{41} no.~1 (2023), 20--54.
+  \mr{4557273}.  \zbl{1520.30060}.  \arxiv{2111.03230}.
+  \doi{10.1016/j.exmath.2022.12.002}.
+
+\end{thebibliography}

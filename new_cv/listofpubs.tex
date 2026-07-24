@@ -14,38 +14,8 @@
 \usepackage{amsthm}
 \usepackage{mathtools}
 
-
-\usepackage[backend=biber,style=numeric, maxnames=8]{biblatex}
-
-\DeclareSortingTemplate{eprint}{
-    \sort[direction=descending]{\field{sortkey}}
-}
-
-\DeclareSortingTemplate{noney}{
-  \sort[direction=descending]{
-    \field{sortyear}
-    \field{year}
-  }
-  \sort{\intciteorder}
-}
-
-
-\addbibresource{preprints.bib}
-\addbibresource{published.bib}
-\renewbibmacro*{finentry}{%
-  \setunit{\finentrypunct\par}%
-  \usebibmacro{abstract}%
-  \finentry}
-
-\DeclareSourcemap{
-    \maps[datatype=bibtex]{
-        \map{
-            \step[fieldsource=eprint]
-            \step[fieldset=sortkey,origfieldval]
-        }
-    }
-}
-
+\usepackage{multibib}
+\newcites{preprints,published}{{Preprints and submitted}, {Published}}
 
 \usepackage{hyperref}
 
@@ -63,20 +33,13 @@
 
 \maketitle
 
-\section*{Preprints and submitted}
-\begin{refsection}[preprints]
-\newrefcontext[sorting=eprint]
-\nocite{*}
-\sloppy
-\printbibliography[heading=none]
-\end{refsection}
 
-\section*{Published}
-\begin{refsection}[published]
-\newrefcontext[sorting=noney]
-\nocite{*}
-\sloppy
-\printbibliography[heading=none]
-\end{refsection}
+\nocitepreprints{*}
+\bibliographystylepreprints{aomplainxxxabs}
+\bibliographypreprints{preprints}
+
+\nocitepublished{*}
+\bibliographystylepublished{aomplainxxxabs}
+\bibliographypublished{published}
 
 \end{document}

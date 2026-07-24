@@ -1,47 +1,47 @@
 This is BibTeX, Version 0.99e (TeX Live 2026/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: preprints.aux
-The style file: aomplainxxx.bst
+The style file: aomplainxxxabs.bst
 Database file #1: preprints.bib
 Reallocated singl_function (elt_size=8) to 100 items from 50.
-You've used 6 entries,
-            2877 wiz_defined-function locations,
-            650 strings with 5695 characters,
-and the built_in function-call counts, 2812 in all, are:
-= -- 351
-> -- 69
+You've used 7 entries,
+            2910 wiz_defined-function locations,
+            669 strings with 11976 characters,
+and the built_in function-call counts, 3312 in all, are:
+= -- 414
+> -- 76
 < -- 0
-+ -- 79
-- -- 157
-* -- 96
-:= -- 423
-add.period$ -- 6
-call.type$ -- 6
-change.case$ -- 23
-chr.to.int$ -- 24
-cite$ -- 12
-duplicate$ -- 171
-empty$ -- 169
-format.name$ -- 22
-if$ -- 579
++ -- 92
+- -- 183
+* -- 124
+:= -- 492
+add.period$ -- 7
+call.type$ -- 7
+change.case$ -- 26
+chr.to.int$ -- 28
+cite$ -- 14
+duplicate$ -- 201
+empty$ -- 204
+format.name$ -- 24
+if$ -- 684
 int.to.chr$ -- 0
-int.to.str$ -- 12
-missing$ -- 18
-newline$ -- 34
-num.names$ -- 12
-pop$ -- 95
+int.to.str$ -- 14
+missing$ -- 21
+newline$ -- 44
+num.names$ -- 14
+pop$ -- 109
 preamble$ -- 1
-purify$ -- 17
+purify$ -- 19
 quote$ -- 0
-skip$ -- 114
+skip$ -- 132
 stack$ -- 0
-substring$ -- 198
-swap$ -- 6
-text.length$ -- 6
+substring$ -- 231
+swap$ -- 7
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 42
-width$ -- 7
-write$ -- 63
+while$ -- 49
+width$ -- 8
+write$ -- 80

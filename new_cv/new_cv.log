@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026/Arch Linux)  (format=lualatex 2026.6.5)  21 JUL 2026 13:40
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026/Arch Linux)  (format=lualatex 2026.6.5)  2 AUG 2026 11:40
  restricted system commands enabled.
 **new_cv
 (./new_cv.tex
@@ -4340,13 +4340,13 @@ Package rerunfilecheck Info: File `new_cv.out' has not changed.
 Here is how much of LuaTeX's memory you used:
  34226 strings out of 476076
  125240,1373583 words of node,token memory allocated
- 855 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 21
- attribute, 90 glue_spec, 21 attribute_list, 2 write, 12 pdf_action nodes
-   avail lists: 1:4,2:1188,3:464,4:221,5:917,6:126,7:10002,8:49,9:1200,10:15,11:
+ 835 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 3 glyph, 19
+ attribute, 90 glue_spec, 19 attribute_list, 2 write, 10 pdf_action nodes
+   avail lists: 1:4,2:1208,3:464,4:221,5:917,6:128,7:10013,8:49,9:1200,10:15,11:
 709
  55894 multiletter control sequences out of 65536+600000
- 94 fonts using 23687375 bytes
+ 94 fonts using 23687055 bytes
  129i,13n,143p,998b,1108s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/public/asana-math/Asana-Math.otf></usr/sha
 re/texmf-dist/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf></usr/sh
@@ -4359,10 +4359,10 @@ ontawesome5/FontAwesome5Free-Solid-900.otf></usr/share/texmf-dist/fonts/opentype
 /public/tex-gyre/texgyrepagella-regular.otf></usr/share/texmf-dist/fonts/opentyp
 e/public/fontawesome5/FontAwesome5Free-Regular-400.otf></usr/share/texmf-dist/fo
 nts/opentype/public/tex-gyre/texgyrepagella-bold.otf>
-Output written on new_cv.pdf (4 pages, 92313 bytes).
+Output written on new_cv.pdf (4 pages, 93385 bytes).
 
-PDF statistics: 248 PDF objects out of 1000 (max. 8388607)
- 203 compressed objects within 3 object streams
+PDF statistics: 247 PDF objects out of 1000 (max. 8388607)
+ 202 compressed objects within 3 object streams
  29 named destinations out of 1000 (max. 1048576)
  120 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026/Arch Linux)  (format=lualatex 2026.6.5)  21 JUL 2026 13:40
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026/Arch Linux)  (format=lualatex 2026.6.5)  26 JUL 2026 20:09
  restricted system commands enabled.
 **new_cv_short
 (./new_cv_short.tex
@@ -2603,14 +2603,14 @@ attribute, 89 glue_spec, 9 attribute_list, 2 write nodes
    avail lists: 1:5,2:1012,3:321,4:196,5:903,6:109,7:8923,8:1,9:1102,10:2,11:649
 
  55781 multiletter control sequences out of 65536+600000
- 67 fonts using 15697303 bytes
+ 67 fonts using 15697127 bytes
  129i,11n,143p,1004b,1108s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf>
 </usr/share/texmf-dist/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf
 ></usr/share/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regu
 lar-400.otf></usr/share/texmf-dist/fonts/opentype/public/tex-gyre/texgyrepagella
 -bold.otf>
-Output written on new_cv_short.pdf (1 page, 32851 bytes).
+Output written on new_cv_short.pdf (1 page, 32852 bytes).
 
 PDF statistics: 59 PDF objects out of 1000 (max. 8388607)
  43 compressed objects within 1 object stream

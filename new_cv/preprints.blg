@@ -1,19 +1,19 @@
 This is BibTeX, Version 0.99e (TeX Live 2026/Arch Linux)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: preprints.aux
-The style file: aomplainxxxabs.bst
+The style file: aomplainxxx.bst
 Database file #1: preprints.bib
 Reallocated singl_function (elt_size=8) to 100 items from 50.
 You've used 7 entries,
-            2910 wiz_defined-function locations,
-            669 strings with 11976 characters,
-and the built_in function-call counts, 3312 in all, are:
+            2877 wiz_defined-function locations,
+            656 strings with 5914 characters,
+and the built_in function-call counts, 3270 in all, are:
 = -- 414
 > -- 76
 < -- 0
 + -- 92
 - -- 183
-* -- 124
+* -- 110
 := -- 492
 add.period$ -- 7
 call.type$ -- 7
@@ -21,13 +21,13 @@ change.case$ -- 26
 chr.to.int$ -- 28
 cite$ -- 14
 duplicate$ -- 201
-empty$ -- 204
+empty$ -- 197
 format.name$ -- 24
-if$ -- 684
+if$ -- 677
 int.to.chr$ -- 0
 int.to.str$ -- 14
 missing$ -- 21
-newline$ -- 44
+newline$ -- 37
 num.names$ -- 14
 pop$ -- 109
 preamble$ -- 1
@@ -44,4 +44,4 @@ type$ -- 0
 warning$ -- 0
 while$ -- 49
 width$ -- 8
-write$ -- 80
+write$ -- 73

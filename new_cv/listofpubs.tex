@@ -3,16 +3,14 @@
 \usepackage[T1]{fontenc}
 \usepackage{fontspec}
 
-\usepackage{unicode-math}
-\defaultfontfeatures{Mapping=tex-text,Ligatures={TeX,Common},Scale=MatchLowercase}
-\defaultfontfeatures[\rmfamily]{Scale=1} % To scale all fonts correctly
-\setmainfont{TeX Gyre Pagella}
-\setmathfont{Asana Math}
-
-
 \usepackage{amsmath}
 \usepackage{amsthm}
 \usepackage{mathtools}
+\usepackage{unicode-math}
+\setmainfont{TeX Gyre Pagella}[Scale=1.0,Ligatures=TeX]
+\setmathfont{TeX Gyre Pagella Math}
+
+
 
 \usepackage{multibib}
 \newcites{preprints,published}{{Preprints and submitted}, {Published}}

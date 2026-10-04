@@ -93,6 +93,7 @@ ENTRY
     number
     organization
     pages
+    primaryClass
     publisher
     school
     series
@@ -335,7 +336,7 @@ FUNCTION {output.nonempty.arxiv}
   if$
   duplicate$ empty$
     'pop$
-    { " \arxiv{" swap$ * "}. " * write$ }
+    { " \arxiv{" swap$ * "} [" * primaryClass * "]. " * write$ }
   if$
 }
 
@@ -549,7 +550,7 @@ FUNCTION {format.date}
     }
     { month empty$
 	'year
-	{ month " " * year * }
+	'year
       if$
     }
   if$

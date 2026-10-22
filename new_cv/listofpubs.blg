@@ -1,5 +1,0 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'listofpubs.blg'
-[101] biber:342> INFO - === Sat Jul 25, 2026, 03:24:15
-[301] Utils.pm:479> ERROR - Cannot find 'listofpubs.bcf'!
-[301] Biber.pm:137> INFO - ERRORS: 1
